@@ -10,17 +10,4 @@ public class Test1 {
 	public static void main(String[] args) {
 		userName();
 	}
-
-
-	private void bike() {
-		// TODO Auto-generated method stub
-
-	}
-
-
-	private void sysout() {
-		// TODO Auto-generated method stub
-
-	}
-
 }
