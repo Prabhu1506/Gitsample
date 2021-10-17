@@ -11,7 +11,14 @@ public class Test1 {
 		userName();
 	}
 
+
 	private void bike() {
+		// TODO Auto-generated method stub
+
+	}
+
+
+	private void sysout() {
 		// TODO Auto-generated method stub
 
 	}
